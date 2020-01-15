@@ -1,2 +1,2 @@
 # gd-pos
-pos apps for gdcollectdata
+Pos apps for gdcollectdata
