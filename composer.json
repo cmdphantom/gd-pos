@@ -1,0 +1,11 @@
+{
+    "name": "gd-pos",
+    "type": "project",
+    "description": "The pos Framework.",
+    ,
+    "license": "MIT",
+    "require": {
+        "php": "^7.2",
+      
+    }
+}
